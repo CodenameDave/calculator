@@ -1,0 +1,51 @@
+.numpad-container {
+    
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto;
+    width: 25rem;
+    height: 20rem;
+
+}
+
+.key{
+ 
+    font-size: 40px;
+
+
+    border-style: ridge;
+    border-color: black;
+}
+
+
+
+
+.display-container{
+    display: flex;
+    border-style: double;
+    background-color: hsl(0, 0%, 15%);
+    color:  white;
+    grid-column-start: 1;
+    grid-column-end: 5;
+    justify-content: right;
+    align-items: center;
+    
+  
+    
+}
+.display{
+    padding-left: 2rem;
+    padding-top: 2rem;
+    font-size: 40px;
+    
+}
+button {
+    background-color: lightblue;
+    width: 100%;
+    height: 100%;
+    font-size: 1.5rem;
+}
+
+.item19{
+    grid-column-start: 3;
+    grid-column-end: 5;
+}
