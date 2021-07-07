@@ -1,4 +1,4 @@
-.numpad-container {
+#numpad-container {
     
     display: inline-grid;
     grid-template-columns: auto auto auto auto;
@@ -6,6 +6,8 @@
     height: 20rem;
 
 }
+
+
 
 .key{
  
@@ -45,7 +47,3 @@ button {
     font-size: 1.5rem;
 }
 
-.item19{
-    grid-column-start: 3;
-    grid-column-end: 5;
-}

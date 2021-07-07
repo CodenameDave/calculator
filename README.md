@@ -14,3 +14,6 @@ Finally I will work on my CSS skills and try to make it look more fancy.
 
 
 
+I got further than I thought I would.  My logic is all wrong but was fun to create the basic UI and use some DOM manipulation to display values.  This logic will not work so for now its
+back to the drawing board.  There are things that I haven't learned in javascript yet.  Back to learning and will revisit when I have an AHA! moment
+
